@@ -1,8 +1,4 @@
-
-
-<!---
-TomasellaElianTobias/TomasellaElianTobias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview # 👋 Hola, soy Tobias Tomasella
+# 👋 Hola, soy Tobias Tomasella
 
 🎓 Ingeniero en Sistemas de Información graduado de la Universidad de la Cuenca del Plata.
 
@@ -29,5 +25,3 @@ You can click the Preview # 👋 Hola, soy Tobias Tomasella
 * Teléfono: +54 3794 559067
 
 ⚡ "La tecnología es una herramienta para resolver problemas reales y generar impacto positivo."
-link to take a look at your changes.
---->
